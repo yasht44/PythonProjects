@@ -1,4 +1,4 @@
-import os
+import os #allows us to acess OS information 
 
 def list_files_in_directory(path=None):
     if path is None:
